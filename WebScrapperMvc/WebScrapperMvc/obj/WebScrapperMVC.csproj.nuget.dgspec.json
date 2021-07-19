@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T-Gamer\\source\\repos\\WebScrapperMvc\\WebScrapperMVC\\WebScrapperMVC.csproj": {}
+    "D:\\Downloads\\WebScrapper-main\\WebScrapperMvc\\WebScrapperMVC\\WebScrapperMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T-Gamer\\source\\repos\\WebScrapperMvc\\WebScrapperMVC\\WebScrapperMVC.csproj": {
+    "D:\\Downloads\\WebScrapper-main\\WebScrapperMvc\\WebScrapperMVC\\WebScrapperMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T-Gamer\\source\\repos\\WebScrapperMvc\\WebScrapperMVC\\WebScrapperMVC.csproj",
+        "projectUniqueName": "D:\\Downloads\\WebScrapper-main\\WebScrapperMvc\\WebScrapperMVC\\WebScrapperMVC.csproj",
         "projectName": "WebScrapperMVC",
-        "projectPath": "C:\\Users\\T-Gamer\\source\\repos\\WebScrapperMvc\\WebScrapperMVC\\WebScrapperMVC.csproj",
+        "projectPath": "D:\\Downloads\\WebScrapper-main\\WebScrapperMvc\\WebScrapperMVC\\WebScrapperMVC.csproj",
         "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T-Gamer\\source\\repos\\WebScrapperMvc\\WebScrapperMVC\\obj\\",
+        "outputPath": "D:\\Downloads\\WebScrapper-main\\WebScrapperMvc\\WebScrapperMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",

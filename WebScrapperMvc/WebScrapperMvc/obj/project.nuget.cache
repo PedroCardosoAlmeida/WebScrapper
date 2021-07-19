@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nV3DJ47H9w8M9p8wQ66zXn9pHGis6L1IFeSvQSdQV7iy31ZqWdKD2ElNNQnejTROV0yYMUSuq9c4nv+2KcHdsg==",
+  "dgSpecHash": "1lFsrtGh7t8qmaH/WW+tbzipfC4qhpjR+d+FuZf4NPRPlB6FcNa+l4YiU8GqKNlOgI2vCG2Xm32H7eSlyf7jEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\T-Gamer\\source\\repos\\WebScrapperMvc\\WebScrapperMVC\\WebScrapperMVC.csproj",
+  "projectFilePath": "D:\\Downloads\\WebScrapper-main\\WebScrapperMvc\\WebScrapperMVC\\WebScrapperMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\T-Gamer\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512",
     "C:\\Users\\T-Gamer\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
